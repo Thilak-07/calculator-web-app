@@ -1,5 +1,5 @@
 # Onsite Task 3 : Calculator Web App
-Here I've created a calculator web app without using the <code>eval()</code> function.
+Here I've created a Calculator web app without using the <code>eval()</code> function.
 
 ## Features Implemented
 - [x] Neat UI for user inputs.
