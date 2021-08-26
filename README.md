@@ -4,7 +4,7 @@ Here I've created a Calculator web app without using the <code>eval()</code> fun
 ## Features Implemented
 - [x] Neat UI for user inputs.
 - [x] Evaluation based on BODMAS rules.
-- [x] Included basic operators which include +, -, *, /, %, ().
+- [x] Included basic operators which include +, -, *, /, %, ( ).
 - [x] User input through keyboard keys. 
 - [ ] Scientific Calculator functions.
 
