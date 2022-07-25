@@ -1,4 +1,4 @@
-# Onsite Task 3 : Calculator Web App
+# Calculator Web App
 Here I've created a Calculator web app without using the <code>eval()</code> function.
 
 ## Features Implemented
@@ -8,4 +8,7 @@ Here I've created a Calculator web app without using the <code>eval()</code> fun
 - [x] User input through keyboard keys. 
 - [ ] Scientific Calculator functions.
 
-Try it [Here !](https://thilak-07.github.io/Task-4-Calculator/)
+Try Calculator Web App [Here](https://thilak-07.github.io/Task-4-Calculator/)
+
+## Screenshot
+![App Screenshot](https://github.com/Thilak-07/Task-4-Calculator/blob/main/Screenshots/Calculator.png)
